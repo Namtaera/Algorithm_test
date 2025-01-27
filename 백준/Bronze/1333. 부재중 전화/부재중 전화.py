@@ -23,3 +23,6 @@ for bell_time in range(0, album_length, D):
 else:
     # 앨범 전체 재생 후 처음 벨소리가 울리는 시간 출력
     print(bell_time + D)
+
+# 블로그 참고함
+# 뭐 이리 어려움?
