@@ -23,3 +23,6 @@ while True:
         print("YES")
     else:
         print("NO")
+
+# 너무 어려워서 블로그 참고
+# 진짜 너무 어려움
